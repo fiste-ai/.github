@@ -1,6 +1,6 @@
 ## Fiste AI
 
-Speech technology for the Nepali language.
+An AI lab for the Nepali language. Our first two models are for speech.
 
 **[Shravya (श्रव्य)](https://github.com/fiste-ai/shravya)**, our Nepali speech recognition model, is released: it
 writes spoken Nepali, phone calls and Nepali mixed with English in Devanagari, and runs on an ordinary processor.
