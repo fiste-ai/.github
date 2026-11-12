@@ -10,3 +10,12 @@ voices, voice cloning only with the speaker's consent, and a small version for p
 
 [Website](https://fiste-ai.github.io) · [Hugging Face](https://huggingface.co/fiste-ai) ·
 [Shravya](https://github.com/fiste-ai/shravya) · [Suseli](https://github.com/fiste-ai/suseli)
+
+## Work with us
+
+Our models are free for research and other non-commercial use. If you want a demo on your own recordings, a
+commercial licence, a pilot for a call centre or a newsroom, or early access to Suseli, tell us what you need:
+
+**[Request a demo](https://fiste-ai.github.io/contact/)** · <fistelabs@gmail.com>
+
+Bugs and questions belong in the issues of the repository they concern.
